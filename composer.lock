@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b2e4c452179ff80492b33f7c56e9a23e",
+    "content-hash": "ab0361a7e23aa8f6bb0eb6da08e25058",
     "packages": [
         {
             "name": "doctrine/inflector",
